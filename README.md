@@ -30,7 +30,7 @@ If you'd like to request a new function, feel free to do so by opening an issue 
 
 | Behaviour      | Input        | Output       |
 | :------------- | :----------: | -----------: |
-|  Enter your name  |   Joesph nganga |     |
+|  Enter your order  |   |     |
 | Enter your Email Address  | scarscoobydoo@gmail.com |   |
 | Enter your message or comment   | what other services    |     |
 | Press Submit|     |Pop up: Joseph nganga , we have received your message. Thank you for reaching out to us.|
