@@ -34,12 +34,15 @@ If you'd like to request a new function, feel free to do so by opening an issue 
 | Enter your Email Address  | scarscoobydoo@gmail.com |   |
 | Enter your message or comment   | what other services    |     |
 | Press Submit|     |Pop up: Joseph nganga , we have received your message. Thank you for reaching out to us.|
-## output:
-* Create a Hover effect for the **Portfolio ** sections such that on hover a white box appears with then name of the project inside. The project picture should still be visible in the background. This should be achieved using jQuery.
-* The 'What we do'  icons when clicked should toggle between the respective description of each icon. The description should be centered aligned. The header should be in bold and centered also. This should be achieved by using jQuery.
-* Tell the user through a pop up that you have received their message and also thank them for contacting you . For example: ** johndoe we have received your message. Thank you fro reaching out to us. **
-* Use mail chimp API to track all the emails and messages from your users
-* Make the site responsive. 
+## Description:
+* Choose the size of pizza I want e.g Small, Medium, Large
+* Choose what kind of crust I would like the pizza to have e.g Crispy, Stuffed, Gluten-free
+* Choose the topping(s) I want on my pizza.
+* Place an order for my Pizza and see the total charge for it.
+* Have an option to order as many pizzas as I want.
+* Have an option to have the pizza delivered or not.  If delivered I want to be alerted how much the delivery charge will be.
+* If I want my pizza to be delivered, I want to be prompted to enter where the delivery should be made and an alert saying '' your order will be delivered to your location"
+* See a checkout button that when clicked shows the total amount charged for the orders. 
 
 ## Technologies Used
 <a href="https://www.w3schools.com/">HTML W3schools</a> 
