@@ -4,7 +4,7 @@
 #### This prooject is a pizza deliverly shoping site
 (<a href="">View project</a>)
 
- Date of current version<strong>*: 20/02/2020*</strong>
+ Date of current version<strong>*: 02/03/2020*</strong>
 #### By:
 1. Joseph Nganga ; lead developer
 1. Moringa TM's ; Mentors
@@ -26,14 +26,6 @@
 If you find a bug (the website couldn't handle the query and / or gave undesired results), kindly open an issue here by including your search query and the expected result.
 
 If you'd like to request a new function, feel free to do so by opening an issue here. Please include sample queries and their corresponding results.
-## Behaviour Driven Development (BDD)
-
-| Behaviour      | Input        | Output       |
-| :------------- | :----------: | -----------: |
-|  Enter your order  |   |     |
-| Enter your Email Address  | scarscoobydoo@gmail.com |   |
-| Enter your message or comment   | what other services    |     |
-| Press Submit|     |Pop up: Joseph nganga , we have received your message. Thank you for reaching out to us.|
 ## Description:
 * Choose the size of pizza I want e.g Small, Medium, Large
 * Choose what kind of crust I would like the pizza to have e.g Crispy, Stuffed, Gluten-free
@@ -43,6 +35,19 @@ If you'd like to request a new function, feel free to do so by opening an issue 
 * Have an option to have the pizza delivered or not.  If delivered I want to be alerted how much the delivery charge will be.
 * If I want my pizza to be delivered, I want to be prompted to enter where the delivery should be made and an alert saying '' your order will be delivered to your location"
 * See a checkout button that when clicked shows the total amount charged for the orders. 
+
+## Behaviour Driven Development (BDD)
+
+| Behaviour      | Input        | Output       |
+| :------------- | :----------: | -----------: |
+| Determine the prices for each pizza size.  |  large |     |
+|   set value depending on the size of the pizza. | 500|   |
+| Determine the cost for the crust  |    200 |     |
+| The total cost of a pizza should constitute, the crust, topping(s) and size of the pizza|(700+200 transport)     ||
+| |     |On checkout, the application displays the orders’ summary together with the total amount charged. For example, if the customer has made more than one pizza order, on checkout the application displays a summary of all the orders he/she has made and the total amount to pay for all his/her orders.|
+
+
+<img src="./img/screen.png" width="" >
 
 ## Technologies Used
 <a href="https://www.w3schools.com/">HTML W3schools</a> 
