@@ -13,6 +13,7 @@ body {
   background-color: #ff6347;
 }
 #p1 {
+  font-family: 'Tangerine', ;
   padding-top: 100px;
   font-weight: bold;
   font-size: xx-large;
@@ -67,6 +68,7 @@ button {
 /*glow text area*/
 
 .glow {
+  font-family: 'Tangerine', ;
   font-size: 80px;
   color: #fff;
   text-align: center;
